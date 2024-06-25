@@ -1,0 +1,48 @@
+[33mcommit da905acdf32b4eb60f0643689e42d8e62e7d3063[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 53f1838 8dd9b88
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Mon Jun 24 18:50:48 2024 -0600
+
+    ok
+
+[33mcommit 8dd9b8830f58b614cae3626bce0ad2e92beb0b01[m[33m ([m[1;32mmain[m[33m)[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Mon Jun 24 14:24:11 2024 -0600
+
+    Git 3 v2
+
+[33mcommit 53f183893c89c3aad57c8fa484c0cc95110650b1[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Mon Jun 24 14:15:35 2024 -0600
+
+    Login
+
+[33mcommit 7a1cb25c8281df0b5ace9769326e4ef16a14cee6[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Fri Jun 21 18:49:36 2024 -0600
+
+    Este es mi quinto commit
+
+[33mcommit 06341d9e749b952e4a6c2a3eac2acac6c532dbf8[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Fri Jun 21 14:41:22 2024 -0600
+
+    Se añade el .gitignore
+
+[33mcommit 6bf756f410f45e5863cae3ccb5bcd7d8af5493cf[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Thu Jun 20 14:51:41 2024 -0600
+
+    Se actualiza el texto del print.
+
+[33mcommit 2dd737bdb703fe243b63e980f78e25e23afda3f2[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Thu Jun 20 14:44:08 2024 -0600
+
+    Este es mi segundo commit.
+
+[33mcommit 2ffd17eb5041285b03dc6832b67fd2dec9553743[m
+Author: Carlos <solcar_ca@live.com.mx>
+Date:   Thu Jun 20 14:38:29 2024 -0600
+
+    Este es mi primer commit.
